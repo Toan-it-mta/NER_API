@@ -1,3 +1,4 @@
 fastapi==0.65.2
 FastNLP==0.5.0
 flair==0.11.1
+uvicorn
